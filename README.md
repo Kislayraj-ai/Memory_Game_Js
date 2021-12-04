@@ -4,8 +4,8 @@ This is an Memory Game build with Javascript and Css .
 
 ### Visit the Site (on netlify)
 
-[Memory Game](https://www.google.com) Click on the link to know how it really
-works in real .
+[Memory Game](https://kislayraj-ai-memory-game.netlify.app/) Click on the link
+to know how it really works in real .
 
 ### how it works
 
